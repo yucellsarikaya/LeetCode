@@ -1,6 +1,7 @@
 /**
  * @param {number[]} nums
  * @return {number[]}
+ https://leetcode.com/submissions/detail/841294604/
  */
 var findDisappearedNumbers = function(nums) {
     const uzunluk = nums.length
